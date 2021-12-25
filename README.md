@@ -1,2 +1,2 @@
 # codejourney
-My journey in coding
+My code journey
